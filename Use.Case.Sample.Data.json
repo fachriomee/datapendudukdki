@@ -1,0 +1,36 @@
+{
+	'data':[
+		{
+			"_id" : "9eb8a911-7fba-4ba4-abe0-25890df9d454",
+			"loyaltyCardIds" : [ 
+				"8803XXXXXXXXX800", 
+				"8802XXXXXXXXX643", 
+			],
+			"createdAt" : ISODate("2018-11-15T00:20:47.734Z"),
+			"modifiedAt" : ISODate("2019-01-31T14:09:24.636Z"),
+			"sourceReference" : "MAP",
+			"phone" : "+62-81512300000",
+			"gender" : "MALE",
+			"birthDate" : ISODate("2015-02-06T00:00:00.000Z"),
+			"enrollmentDate" : ISODate("2016-02-20T00:00:00.000Z"),
+			"city" : "Sumedang",
+			"country" : "INDONESIA"
+		},
+		{
+			"_id" : "9eb8a911-7fba-4ba4-abe0-25890df9d636",
+			"loyaltyCardIds" : [ 
+				"8803XXXXXXXXX803", 
+				"8802XXXXXXXXX655", 
+			],
+			"createdAt" : ISODate("2019-01-15T00:20:47.734Z"),
+			"modifiedAt" : ISODate("2019-01-31T14:09:24.636Z"),
+			"sourceReference" : "MAP",
+			"phone" : "+62-81812300004",
+			"gender" : "MALE",
+			"birthDate" : ISODate("2000-01-18T00:00:00.000Z"),
+			"enrollmentDate" : ISODate("2017-01-20T00:00:00.000Z"),
+			"city" : "",
+			"country" : "INDONESIA"
+		}
+	]
+}
